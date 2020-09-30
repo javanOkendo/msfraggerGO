@@ -8,3 +8,6 @@ This code does the GO analysis from the MSfragger database search results
 ### Bioinformatics job
 https://jobrxiv.org/job/faculta-of-mathematics-and-physics-charles-university-27778-bioinformatician-research-associate/
 
+### Differential proteomics analysis
+- https://bioconductor.riken.jp/packages/devel/bioc/vignettes/DEP/inst/doc/DEP.html
+
