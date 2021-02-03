@@ -15,4 +15,4 @@ https://jobrxiv.org/job/faculta-of-mathematics-and-physics-charles-university-27
 
 - Email:        
 - westlands25@outlook.com
-- Password:   michaelsoft2022
+- Password   michaelsoft2022
